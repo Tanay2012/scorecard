@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Bitcount Grid Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+        "slnt" 0,
+        "CRSV" 0.5,
+        "ELSH" 0,
+        "ELXP" 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.h3-1{
+    margin: 20px 0px 15px 40px;
+}
+ .h3-2{
+  margin: 20px 0px 15px 40px;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around ;
+    height: 300px;
+    width: 500px;
+    background-color: #003049;
+    border-radius: 10px;
+    color: #fdf0d5;
+}
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    height: 70px;
+    width: 140px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    border-radius: 3px;
+}
+#score1{
+    font-size: 50px;
+    color: #c1121f;
+}
+#score2{
+    font-size: 50px;
+    color: #c1121f;
+}
+.btn1{
+    margin: 45px -12px 0px 7px;
+    background-color: #003049;
+    color: #fdf0d5;
+    border: 1px solid #f0efeb;
+    border-radius: 4px;
+    padding: 10px ;
+}
+.btn2{
+    margin: 45px -12px 0px 7px;
+    background-color: #003049;
+    color: #fdf0d5;
+    border: 1px solid #f0efeb;
+    border-radius: 4px;
+    padding: 10px ;
+}
